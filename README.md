@@ -11,5 +11,8 @@
 - To Know everything
 - To Get a Job
 
+## Technology Interests
+- Artificial Intelligence
+- Game Development
 
   
