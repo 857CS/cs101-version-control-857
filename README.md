@@ -1,5 +1,5 @@
 # My CS Profile
 
 ## About Me
--Name: Supakorn
+-Name: Supakorn Thongdonjui
 -Major: Computer Science
