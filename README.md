@@ -15,4 +15,7 @@
 - Artificial Intelligence
 - Game Development
 
-  
+## Skills
+- Problem solving
+- Leadership
+- Teamwork
